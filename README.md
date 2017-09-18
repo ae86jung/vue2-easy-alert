@@ -4,7 +4,7 @@
 
 A alert plugin for vue2.
 
-[DEMO](https://github.com/ae86jung/vue2-easy-alert/tree/master/example/index.html)
+[DEMO](https://github.com/ae86jung/vue2-easy-alert/example/index.html)
 
 
 **Note:**
