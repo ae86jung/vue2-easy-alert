@@ -37,7 +37,8 @@ Issue/PR is welcomed, I'll response as soon as possible.
 
 Parameter | Type |Default| Description
 --------- | ---- | ------|-----------
-id | `string` | `easy-alert-default` | Unique identifier globally. Use this to create multiple toasts with different setups.
+id | `string` | `easy-alert-default` | Unique identifier globally. 
+Use this to create multiple toasts with different setups.
 parent | `string`| `body` | Selector of the container (TODO, not ready yet, position is fixed to the window)
 title | `string` | | Self-defined title to pass through. 
 titleStyle | `string` |  | You can custom title properties here.
